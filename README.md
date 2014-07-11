@@ -1,4 +1,4 @@
-# Unit 3. Bits and Pieces
+## Unit 3. Bits and Pieces
 
 My solution to Unit3 of the training "Intro to Java and Java EE" taught by [Yakov Fain](https://github.com/yfain) from Farata Systems.
 
@@ -6,6 +6,6 @@ My solution to Unit3 of the training "Intro to Java and Java EE" taught by [Yako
 
 ### Links
 
-[Video on Youtube](http://www.youtube.com/watch?v=2USQ7LFfz4w)
+[Video on Youtube](http://www.youtube.com/watch?v=2USQ7LFfz4w) in Russian.
 
 [All slides](https://code.google.com/p/practicaljava/wiki/Slides) of the course.
